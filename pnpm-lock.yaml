@@ -2798,19 +2798,19 @@ importers:
       '@apollo/client':
         specifier: ^3.8.8
         version: 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@bit-bazaar/design.actions.button':
+      '@bit-bazaar/actions.button':
         specifier: workspace:*
         version: file:design/actions/button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.actions.icon-button':
+      '@bit-bazaar/actions.icon-button':
         specifier: workspace:*
         version: file:design/actions/icon-button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.data-display.avatar':
+      '@bit-bazaar/data-display.avatar':
         specifier: workspace:*
         version: file:design/data-display/avatar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.data-display.divider':
+      '@bit-bazaar/data-display.divider':
         specifier: workspace:*
         version: file:design/data-display/divider(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.data-display.list':
+      '@bit-bazaar/data-display.list':
         specifier: workspace:*
         version: file:design/data-display/list(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
       '@bit-bazaar/design.dev.react-mui':
@@ -2831,46 +2831,46 @@ importers:
       '@bit-bazaar/design.examples.pages.homepage':
         specifier: workspace:*
         version: file:design/examples/pages/homepage(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.layout.box':
+      '@bit-bazaar/layout.box':
         specifier: workspace:*
         version: file:design/layout/box(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.layout.container':
+      '@bit-bazaar/layout.container':
         specifier: workspace:*
         version: file:design/layout/container(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.layout.toolbar':
+      '@bit-bazaar/layout.toolbar':
         specifier: workspace:*
         version: file:design/layout/toolbar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.navigation.link':
+      '@bit-bazaar/navigation.link':
         specifier: workspace:*
         version: file:design/navigation/link(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.navigation.menu':
+      '@bit-bazaar/navigation.menu':
         specifier: workspace:*
         version: file:design/navigation/menu(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.surfaces.app-bar':
+      '@bit-bazaar/surfaces.app-bar':
         specifier: workspace:*
         version: file:design/surfaces/app-bar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.surfaces.card':
+      '@bit-bazaar/surfaces.card':
         specifier: workspace:*
         version: file:design/surfaces/card(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.create-theme':
+      '@bit-bazaar/theme.create-theme':
         specifier: workspace:*
         version: file:design/theme/create-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.dark-mode-toggle':
+      '@bit-bazaar/theme.dark-mode-toggle':
         specifier: workspace:*
         version: file:design/theme/dark-mode-toggle(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.dark-theme':
+      '@bit-bazaar/theme.dark-theme':
         specifier: workspace:*
         version: file:design/theme/dark-theme(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.default-theme':
+      '@bit-bazaar/theme.default-theme':
         specifier: workspace:*
         version: file:design/theme/default-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react-router-dom@6.23.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.theme-provider':
+      '@bit-bazaar/theme.theme-provider':
         specifier: workspace:*
         version: file:design/theme/theme-provider(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.typography.get-default-fonts':
+      '@bit-bazaar/typography.get-default-fonts':
         specifier: workspace:*
         version: file:design/typography/get-default-fonts(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.typography.typography':
+      '@bit-bazaar/typography.typography':
         specifier: workspace:*
         version: file:design/typography/typography(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
       '@emotion/react':
@@ -2967,15 +2967,15 @@ importers:
         specifier: ^5.88.2
         version: 5.92.0
     dependenciesMeta:
-      '@bit-bazaar/design.actions.button':
+      '@bit-bazaar/actions.button':
         injected: true
-      '@bit-bazaar/design.actions.icon-button':
+      '@bit-bazaar/actions.icon-button':
         injected: true
-      '@bit-bazaar/design.data-display.avatar':
+      '@bit-bazaar/data-display.avatar':
         injected: true
-      '@bit-bazaar/design.data-display.divider':
+      '@bit-bazaar/data-display.divider':
         injected: true
-      '@bit-bazaar/design.data-display.list':
+      '@bit-bazaar/data-display.list':
         injected: true
       '@bit-bazaar/design.dev.react-mui':
         injected: true
@@ -2989,33 +2989,33 @@ importers:
         injected: true
       '@bit-bazaar/design.examples.pages.homepage':
         injected: true
-      '@bit-bazaar/design.layout.box':
+      '@bit-bazaar/layout.box':
         injected: true
-      '@bit-bazaar/design.layout.container':
+      '@bit-bazaar/layout.container':
         injected: true
-      '@bit-bazaar/design.layout.toolbar':
+      '@bit-bazaar/layout.toolbar':
         injected: true
-      '@bit-bazaar/design.navigation.link':
+      '@bit-bazaar/navigation.link':
         injected: true
-      '@bit-bazaar/design.navigation.menu':
+      '@bit-bazaar/navigation.menu':
         injected: true
-      '@bit-bazaar/design.surfaces.app-bar':
+      '@bit-bazaar/surfaces.app-bar':
         injected: true
-      '@bit-bazaar/design.surfaces.card':
+      '@bit-bazaar/surfaces.card':
         injected: true
-      '@bit-bazaar/design.theme.create-theme':
+      '@bit-bazaar/theme.create-theme':
         injected: true
-      '@bit-bazaar/design.theme.dark-mode-toggle':
+      '@bit-bazaar/theme.dark-mode-toggle':
         injected: true
-      '@bit-bazaar/design.theme.dark-theme':
+      '@bit-bazaar/theme.dark-theme':
         injected: true
-      '@bit-bazaar/design.theme.default-theme':
+      '@bit-bazaar/theme.default-theme':
         injected: true
-      '@bit-bazaar/design.theme.theme-provider':
+      '@bit-bazaar/theme.theme-provider':
         injected: true
-      '@bit-bazaar/design.typography.get-default-fonts':
+      '@bit-bazaar/typography.get-default-fonts':
         injected: true
-      '@bit-bazaar/design.typography.typography':
+      '@bit-bazaar/typography.typography':
         injected: true
 
   node_modules/.bit_roots/bit-bazaar.design_examples_basic-spa:
@@ -3023,19 +3023,19 @@ importers:
       '@apollo/client':
         specifier: ^3.8.8
         version: 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@bit-bazaar/design.actions.button':
+      '@bit-bazaar/actions.button':
         specifier: workspace:*
         version: file:design/actions/button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.actions.icon-button':
+      '@bit-bazaar/actions.icon-button':
         specifier: workspace:*
         version: file:design/actions/icon-button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.data-display.avatar':
+      '@bit-bazaar/data-display.avatar':
         specifier: workspace:*
         version: file:design/data-display/avatar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.data-display.divider':
+      '@bit-bazaar/data-display.divider':
         specifier: workspace:*
         version: file:design/data-display/divider(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.data-display.list':
+      '@bit-bazaar/data-display.list':
         specifier: workspace:*
         version: file:design/data-display/list(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
       '@bit-bazaar/design.dev.react-mui':
@@ -3056,46 +3056,46 @@ importers:
       '@bit-bazaar/design.examples.pages.homepage':
         specifier: workspace:*
         version: file:design/examples/pages/homepage(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.layout.box':
+      '@bit-bazaar/layout.box':
         specifier: workspace:*
         version: file:design/layout/box(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.layout.container':
+      '@bit-bazaar/layout.container':
         specifier: workspace:*
         version: file:design/layout/container(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.layout.toolbar':
+      '@bit-bazaar/layout.toolbar':
         specifier: workspace:*
         version: file:design/layout/toolbar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.navigation.link':
+      '@bit-bazaar/navigation.link':
         specifier: workspace:*
         version: file:design/navigation/link(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.navigation.menu':
+      '@bit-bazaar/navigation.menu':
         specifier: workspace:*
         version: file:design/navigation/menu(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.surfaces.app-bar':
+      '@bit-bazaar/surfaces.app-bar':
         specifier: workspace:*
         version: file:design/surfaces/app-bar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.surfaces.card':
+      '@bit-bazaar/surfaces.card':
         specifier: workspace:*
         version: file:design/surfaces/card(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.create-theme':
+      '@bit-bazaar/theme.create-theme':
         specifier: workspace:*
         version: file:design/theme/create-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.dark-mode-toggle':
+      '@bit-bazaar/theme.dark-mode-toggle':
         specifier: workspace:*
         version: file:design/theme/dark-mode-toggle(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.dark-theme':
+      '@bit-bazaar/theme.dark-theme':
         specifier: workspace:*
         version: file:design/theme/dark-theme(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.default-theme':
+      '@bit-bazaar/theme.default-theme':
         specifier: workspace:*
         version: file:design/theme/default-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react-router-dom@6.23.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.theme-provider':
+      '@bit-bazaar/theme.theme-provider':
         specifier: workspace:*
         version: file:design/theme/theme-provider(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.typography.get-default-fonts':
+      '@bit-bazaar/typography.get-default-fonts':
         specifier: workspace:*
         version: file:design/typography/get-default-fonts(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.typography.typography':
+      '@bit-bazaar/typography.typography':
         specifier: workspace:*
         version: file:design/typography/typography(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
       '@bitdev/react.app-types.vite-react':
@@ -3205,15 +3205,15 @@ importers:
         specifier: 0.0.2
         version: 0.0.2(@babel/core@7.24.7)(@babel/traverse@7.24.7)(@jest/globals@29.7.0)(@types/express@4.17.21)(@types/node@20.14.5)(babel-plugin-macros@3.1.0)(html-webpack-plugin@5.5.0(webpack@5.92.0))(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(rollup@4.18.0)(terser@5.31.1)(type-fest@3.13.1)(typescript@5.4.5)
     dependenciesMeta:
-      '@bit-bazaar/design.actions.button':
+      '@bit-bazaar/actions.button':
         injected: true
-      '@bit-bazaar/design.actions.icon-button':
+      '@bit-bazaar/actions.icon-button':
         injected: true
-      '@bit-bazaar/design.data-display.avatar':
+      '@bit-bazaar/data-display.avatar':
         injected: true
-      '@bit-bazaar/design.data-display.divider':
+      '@bit-bazaar/data-display.divider':
         injected: true
-      '@bit-bazaar/design.data-display.list':
+      '@bit-bazaar/data-display.list':
         injected: true
       '@bit-bazaar/design.dev.react-mui':
         injected: true
@@ -3227,50 +3227,50 @@ importers:
         injected: true
       '@bit-bazaar/design.examples.pages.homepage':
         injected: true
-      '@bit-bazaar/design.layout.box':
+      '@bit-bazaar/layout.box':
         injected: true
-      '@bit-bazaar/design.layout.container':
+      '@bit-bazaar/layout.container':
         injected: true
-      '@bit-bazaar/design.layout.toolbar':
+      '@bit-bazaar/layout.toolbar':
         injected: true
-      '@bit-bazaar/design.navigation.link':
+      '@bit-bazaar/navigation.link':
         injected: true
-      '@bit-bazaar/design.navigation.menu':
+      '@bit-bazaar/navigation.menu':
         injected: true
-      '@bit-bazaar/design.surfaces.app-bar':
+      '@bit-bazaar/surfaces.app-bar':
         injected: true
-      '@bit-bazaar/design.surfaces.card':
+      '@bit-bazaar/surfaces.card':
         injected: true
-      '@bit-bazaar/design.theme.create-theme':
+      '@bit-bazaar/theme.create-theme':
         injected: true
-      '@bit-bazaar/design.theme.dark-mode-toggle':
+      '@bit-bazaar/theme.dark-mode-toggle':
         injected: true
-      '@bit-bazaar/design.theme.dark-theme':
+      '@bit-bazaar/theme.dark-theme':
         injected: true
-      '@bit-bazaar/design.theme.default-theme':
+      '@bit-bazaar/theme.default-theme':
         injected: true
-      '@bit-bazaar/design.theme.theme-provider':
+      '@bit-bazaar/theme.theme-provider':
         injected: true
-      '@bit-bazaar/design.typography.get-default-fonts':
+      '@bit-bazaar/typography.get-default-fonts':
         injected: true
-      '@bit-bazaar/design.typography.typography':
+      '@bit-bazaar/typography.typography':
         injected: true
 
   node_modules/.bit_roots/bitdev.general_envs_bit-env@1.0.1:
     dependencies:
-      '@bit-bazaar/design.actions.button':
+      '@bit-bazaar/actions.button':
         specifier: workspace:*
         version: file:design/actions/button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.actions.icon-button':
+      '@bit-bazaar/actions.icon-button':
         specifier: workspace:*
         version: file:design/actions/icon-button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.data-display.avatar':
+      '@bit-bazaar/data-display.avatar':
         specifier: workspace:*
         version: file:design/data-display/avatar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.data-display.divider':
+      '@bit-bazaar/data-display.divider':
         specifier: workspace:*
         version: file:design/data-display/divider(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.data-display.list':
+      '@bit-bazaar/data-display.list':
         specifier: workspace:*
         version: file:design/data-display/list(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
       '@bit-bazaar/design.dev.react-mui':
@@ -3291,46 +3291,46 @@ importers:
       '@bit-bazaar/design.examples.pages.homepage':
         specifier: workspace:*
         version: file:design/examples/pages/homepage(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.layout.box':
+      '@bit-bazaar/layout.box':
         specifier: workspace:*
         version: file:design/layout/box(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.layout.container':
+      '@bit-bazaar/layout.container':
         specifier: workspace:*
         version: file:design/layout/container(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.layout.toolbar':
+      '@bit-bazaar/layout.toolbar':
         specifier: workspace:*
         version: file:design/layout/toolbar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.navigation.link':
+      '@bit-bazaar/navigation.link':
         specifier: workspace:*
         version: file:design/navigation/link(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.navigation.menu':
+      '@bit-bazaar/navigation.menu':
         specifier: workspace:*
         version: file:design/navigation/menu(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.surfaces.app-bar':
+      '@bit-bazaar/surfaces.app-bar':
         specifier: workspace:*
         version: file:design/surfaces/app-bar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.surfaces.card':
+      '@bit-bazaar/surfaces.card':
         specifier: workspace:*
         version: file:design/surfaces/card(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.create-theme':
+      '@bit-bazaar/theme.create-theme':
         specifier: workspace:*
         version: file:design/theme/create-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.dark-mode-toggle':
+      '@bit-bazaar/theme.dark-mode-toggle':
         specifier: workspace:*
         version: file:design/theme/dark-mode-toggle(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.dark-theme':
+      '@bit-bazaar/theme.dark-theme':
         specifier: workspace:*
         version: file:design/theme/dark-theme(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.default-theme':
+      '@bit-bazaar/theme.default-theme':
         specifier: workspace:*
         version: file:design/theme/default-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react-router-dom@6.23.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.theme-provider':
+      '@bit-bazaar/theme.theme-provider':
         specifier: workspace:*
         version: file:design/theme/theme-provider(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.typography.get-default-fonts':
+      '@bit-bazaar/typography.get-default-fonts':
         specifier: workspace:*
         version: file:design/typography/get-default-fonts(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.typography.typography':
+      '@bit-bazaar/typography.typography':
         specifier: workspace:*
         version: file:design/typography/typography(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
       '@bitdev/general.envs.bit-env':
@@ -3376,15 +3376,15 @@ importers:
         specifier: ^18.0.0
         version: 18.3.1(react@18.3.1)
     dependenciesMeta:
-      '@bit-bazaar/design.actions.button':
+      '@bit-bazaar/actions.button':
         injected: true
-      '@bit-bazaar/design.actions.icon-button':
+      '@bit-bazaar/actions.icon-button':
         injected: true
-      '@bit-bazaar/design.data-display.avatar':
+      '@bit-bazaar/data-display.avatar':
         injected: true
-      '@bit-bazaar/design.data-display.divider':
+      '@bit-bazaar/data-display.divider':
         injected: true
-      '@bit-bazaar/design.data-display.list':
+      '@bit-bazaar/data-display.list':
         injected: true
       '@bit-bazaar/design.dev.react-mui':
         injected: true
@@ -3398,33 +3398,33 @@ importers:
         injected: true
       '@bit-bazaar/design.examples.pages.homepage':
         injected: true
-      '@bit-bazaar/design.layout.box':
+      '@bit-bazaar/layout.box':
         injected: true
-      '@bit-bazaar/design.layout.container':
+      '@bit-bazaar/layout.container':
         injected: true
-      '@bit-bazaar/design.layout.toolbar':
+      '@bit-bazaar/layout.toolbar':
         injected: true
-      '@bit-bazaar/design.navigation.link':
+      '@bit-bazaar/navigation.link':
         injected: true
-      '@bit-bazaar/design.navigation.menu':
+      '@bit-bazaar/navigation.menu':
         injected: true
-      '@bit-bazaar/design.surfaces.app-bar':
+      '@bit-bazaar/surfaces.app-bar':
         injected: true
-      '@bit-bazaar/design.surfaces.card':
+      '@bit-bazaar/surfaces.card':
         injected: true
-      '@bit-bazaar/design.theme.create-theme':
+      '@bit-bazaar/theme.create-theme':
         injected: true
-      '@bit-bazaar/design.theme.dark-mode-toggle':
+      '@bit-bazaar/theme.dark-mode-toggle':
         injected: true
-      '@bit-bazaar/design.theme.dark-theme':
+      '@bit-bazaar/theme.dark-theme':
         injected: true
-      '@bit-bazaar/design.theme.default-theme':
+      '@bit-bazaar/theme.default-theme':
         injected: true
-      '@bit-bazaar/design.theme.theme-provider':
+      '@bit-bazaar/theme.theme-provider':
         injected: true
-      '@bit-bazaar/design.typography.get-default-fonts':
+      '@bit-bazaar/typography.get-default-fonts':
         injected: true
-      '@bit-bazaar/design.typography.typography':
+      '@bit-bazaar/typography.typography':
         injected: true
 
   node_modules/.bit_roots/learnbit-react.custom-mui-lib_dev_react-mui-foundation@0.0.2:
@@ -3432,19 +3432,19 @@ importers:
       '@apollo/client':
         specifier: ^3.8.8
         version: 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@bit-bazaar/design.actions.button':
+      '@bit-bazaar/actions.button':
         specifier: workspace:*
         version: file:design/actions/button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.actions.icon-button':
+      '@bit-bazaar/actions.icon-button':
         specifier: workspace:*
         version: file:design/actions/icon-button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.data-display.avatar':
+      '@bit-bazaar/data-display.avatar':
         specifier: workspace:*
         version: file:design/data-display/avatar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.data-display.divider':
+      '@bit-bazaar/data-display.divider':
         specifier: workspace:*
         version: file:design/data-display/divider(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.data-display.list':
+      '@bit-bazaar/data-display.list':
         specifier: workspace:*
         version: file:design/data-display/list(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
       '@bit-bazaar/design.dev.react-mui':
@@ -3465,46 +3465,46 @@ importers:
       '@bit-bazaar/design.examples.pages.homepage':
         specifier: workspace:*
         version: file:design/examples/pages/homepage(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.layout.box':
+      '@bit-bazaar/layout.box':
         specifier: workspace:*
         version: file:design/layout/box(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.layout.container':
+      '@bit-bazaar/layout.container':
         specifier: workspace:*
         version: file:design/layout/container(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.layout.toolbar':
+      '@bit-bazaar/layout.toolbar':
         specifier: workspace:*
         version: file:design/layout/toolbar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.navigation.link':
+      '@bit-bazaar/navigation.link':
         specifier: workspace:*
         version: file:design/navigation/link(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.navigation.menu':
+      '@bit-bazaar/navigation.menu':
         specifier: workspace:*
         version: file:design/navigation/menu(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.surfaces.app-bar':
+      '@bit-bazaar/surfaces.app-bar':
         specifier: workspace:*
         version: file:design/surfaces/app-bar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.surfaces.card':
+      '@bit-bazaar/surfaces.card':
         specifier: workspace:*
         version: file:design/surfaces/card(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.create-theme':
+      '@bit-bazaar/theme.create-theme':
         specifier: workspace:*
         version: file:design/theme/create-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.dark-mode-toggle':
+      '@bit-bazaar/theme.dark-mode-toggle':
         specifier: workspace:*
         version: file:design/theme/dark-mode-toggle(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.dark-theme':
+      '@bit-bazaar/theme.dark-theme':
         specifier: workspace:*
         version: file:design/theme/dark-theme(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.default-theme':
+      '@bit-bazaar/theme.default-theme':
         specifier: workspace:*
         version: file:design/theme/default-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react-router-dom@6.23.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.theme-provider':
+      '@bit-bazaar/theme.theme-provider':
         specifier: workspace:*
         version: file:design/theme/theme-provider(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.typography.get-default-fonts':
+      '@bit-bazaar/typography.get-default-fonts':
         specifier: workspace:*
         version: file:design/typography/get-default-fonts(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.typography.typography':
+      '@bit-bazaar/typography.typography':
         specifier: workspace:*
         version: file:design/typography/typography(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
       '@emotion/react':
@@ -3604,15 +3604,15 @@ importers:
         specifier: ^5.88.2
         version: 5.92.0
     dependenciesMeta:
-      '@bit-bazaar/design.actions.button':
+      '@bit-bazaar/actions.button':
         injected: true
-      '@bit-bazaar/design.actions.icon-button':
+      '@bit-bazaar/actions.icon-button':
         injected: true
-      '@bit-bazaar/design.data-display.avatar':
+      '@bit-bazaar/data-display.avatar':
         injected: true
-      '@bit-bazaar/design.data-display.divider':
+      '@bit-bazaar/data-display.divider':
         injected: true
-      '@bit-bazaar/design.data-display.list':
+      '@bit-bazaar/data-display.list':
         injected: true
       '@bit-bazaar/design.dev.react-mui':
         injected: true
@@ -3626,33 +3626,33 @@ importers:
         injected: true
       '@bit-bazaar/design.examples.pages.homepage':
         injected: true
-      '@bit-bazaar/design.layout.box':
+      '@bit-bazaar/layout.box':
         injected: true
-      '@bit-bazaar/design.layout.container':
+      '@bit-bazaar/layout.container':
         injected: true
-      '@bit-bazaar/design.layout.toolbar':
+      '@bit-bazaar/layout.toolbar':
         injected: true
-      '@bit-bazaar/design.navigation.link':
+      '@bit-bazaar/navigation.link':
         injected: true
-      '@bit-bazaar/design.navigation.menu':
+      '@bit-bazaar/navigation.menu':
         injected: true
-      '@bit-bazaar/design.surfaces.app-bar':
+      '@bit-bazaar/surfaces.app-bar':
         injected: true
-      '@bit-bazaar/design.surfaces.card':
+      '@bit-bazaar/surfaces.card':
         injected: true
-      '@bit-bazaar/design.theme.create-theme':
+      '@bit-bazaar/theme.create-theme':
         injected: true
-      '@bit-bazaar/design.theme.dark-mode-toggle':
+      '@bit-bazaar/theme.dark-mode-toggle':
         injected: true
-      '@bit-bazaar/design.theme.dark-theme':
+      '@bit-bazaar/theme.dark-theme':
         injected: true
-      '@bit-bazaar/design.theme.default-theme':
+      '@bit-bazaar/theme.default-theme':
         injected: true
-      '@bit-bazaar/design.theme.theme-provider':
+      '@bit-bazaar/theme.theme-provider':
         injected: true
-      '@bit-bazaar/design.typography.get-default-fonts':
+      '@bit-bazaar/typography.get-default-fonts':
         injected: true
-      '@bit-bazaar/design.typography.typography':
+      '@bit-bazaar/typography.typography':
         injected: true
 
 packages:
@@ -4502,27 +4502,27 @@ packages:
   '@bcoe/v8-coverage@0.2.3':
     resolution: {integrity: sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==}
 
-  '@bit-bazaar/design.actions.button@file:design/actions/button':
+  '@bit-bazaar/actions.button@file:design/actions/button':
     resolution: {directory: design/actions/button, type: directory}
     peerDependencies:
       '@mui/material': ^5.15.16
 
-  '@bit-bazaar/design.actions.icon-button@file:design/actions/icon-button':
+  '@bit-bazaar/actions.icon-button@file:design/actions/icon-button':
     resolution: {directory: design/actions/icon-button, type: directory}
     peerDependencies:
       '@mui/material': ^5.15.16
 
-  '@bit-bazaar/design.data-display.avatar@file:design/data-display/avatar':
+  '@bit-bazaar/data-display.avatar@file:design/data-display/avatar':
     resolution: {directory: design/data-display/avatar, type: directory}
     peerDependencies:
       '@mui/material': ^5.15.16
 
-  '@bit-bazaar/design.data-display.divider@file:design/data-display/divider':
+  '@bit-bazaar/data-display.divider@file:design/data-display/divider':
     resolution: {directory: design/data-display/divider, type: directory}
     peerDependencies:
       '@mui/material': ^5.15.16
 
-  '@bit-bazaar/design.data-display.list@file:design/data-display/list':
+  '@bit-bazaar/data-display.list@file:design/data-display/list':
     resolution: {directory: design/data-display/list, type: directory}
     peerDependencies:
       '@mui/material': ^5.15.16
@@ -4554,62 +4554,62 @@ packages:
   '@bit-bazaar/design.examples.pages.homepage@file:design/examples/pages/homepage':
     resolution: {directory: design/examples/pages/homepage, type: directory}
 
-  '@bit-bazaar/design.layout.box@file:design/layout/box':
+  '@bit-bazaar/layout.box@file:design/layout/box':
     resolution: {directory: design/layout/box, type: directory}
     peerDependencies:
       '@mui/material': ^5.15.16
 
-  '@bit-bazaar/design.layout.container@file:design/layout/container':
+  '@bit-bazaar/layout.container@file:design/layout/container':
     resolution: {directory: design/layout/container, type: directory}
     peerDependencies:
       '@mui/material': ^5.15.16
 
-  '@bit-bazaar/design.layout.toolbar@file:design/layout/toolbar':
+  '@bit-bazaar/layout.toolbar@file:design/layout/toolbar':
     resolution: {directory: design/layout/toolbar, type: directory}
     peerDependencies:
       '@mui/material': ^5.15.16
 
-  '@bit-bazaar/design.navigation.link@file:design/navigation/link':
+  '@bit-bazaar/navigation.link@file:design/navigation/link':
     resolution: {directory: design/navigation/link, type: directory}
     peerDependencies:
       '@mui/material': ^5.15.16
 
-  '@bit-bazaar/design.navigation.menu@file:design/navigation/menu':
+  '@bit-bazaar/navigation.menu@file:design/navigation/menu':
     resolution: {directory: design/navigation/menu, type: directory}
     peerDependencies:
       '@mui/material': ^5.15.16
       react: ^17.0.0 || ^18.0.0
 
-  '@bit-bazaar/design.surfaces.app-bar@file:design/surfaces/app-bar':
+  '@bit-bazaar/surfaces.app-bar@file:design/surfaces/app-bar':
     resolution: {directory: design/surfaces/app-bar, type: directory}
     peerDependencies:
       '@mui/material': ^5.15.16
 
-  '@bit-bazaar/design.surfaces.card@file:design/surfaces/card':
+  '@bit-bazaar/surfaces.card@file:design/surfaces/card':
     resolution: {directory: design/surfaces/card, type: directory}
     peerDependencies:
       '@mui/material': ^5.15.16
 
-  '@bit-bazaar/design.theme.create-theme@file:design/theme/create-theme':
+  '@bit-bazaar/theme.create-theme@file:design/theme/create-theme':
     resolution: {directory: design/theme/create-theme, type: directory}
     peerDependencies:
       '@mui/material': ^5.15.16
 
-  '@bit-bazaar/design.theme.dark-mode-toggle@file:design/theme/dark-mode-toggle':
+  '@bit-bazaar/theme.dark-mode-toggle@file:design/theme/dark-mode-toggle':
     resolution: {directory: design/theme/dark-mode-toggle, type: directory}
     peerDependencies:
       react: ^17.0.0 || ^18.0.0
 
-  '@bit-bazaar/design.theme.dark-theme@file:design/theme/dark-theme':
+  '@bit-bazaar/theme.dark-theme@file:design/theme/dark-theme':
     resolution: {directory: design/theme/dark-theme, type: directory}
 
-  '@bit-bazaar/design.theme.default-theme@file:design/theme/default-theme':
+  '@bit-bazaar/theme.default-theme@file:design/theme/default-theme':
     resolution: {directory: design/theme/default-theme, type: directory}
     peerDependencies:
       '@mui/material': ^5.15.16
       react-router-dom: ^6.16.0
 
-  '@bit-bazaar/design.theme.theme-provider@file:design/theme/theme-provider':
+  '@bit-bazaar/theme.theme-provider@file:design/theme/theme-provider':
     resolution: {directory: design/theme/theme-provider, type: directory}
     peerDependencies:
       '@emotion/react': ^11.11.4
@@ -4617,10 +4617,10 @@ packages:
       '@mui/material': ^5.15.16
       react: ^17.0.0 || ^18.0.0
 
-  '@bit-bazaar/design.typography.get-default-fonts@file:design/typography/get-default-fonts':
+  '@bit-bazaar/typography.get-default-fonts@file:design/typography/get-default-fonts':
     resolution: {directory: design/typography/get-default-fonts, type: directory}
 
-  '@bit-bazaar/design.typography.typography@file:design/typography/typography':
+  '@bit-bazaar/typography.typography@file:design/typography/typography':
     resolution: {directory: design/typography/typography, type: directory}
     peerDependencies:
       '@mui/material': ^5.15.16
@@ -15065,7 +15065,7 @@ snapshots:
 
   '@bcoe/v8-coverage@0.2.3': {}
 
-  '@bit-bazaar/design.actions.button@file:design/actions/button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
+  '@bit-bazaar/actions.button@file:design/actions/button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
@@ -15127,7 +15127,7 @@ snapshots:
       - utf-8-validate
       - webpack-cli
 
-  '@bit-bazaar/design.actions.icon-button@file:design/actions/icon-button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
+  '@bit-bazaar/actions.icon-button@file:design/actions/icon-button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
@@ -15189,7 +15189,7 @@ snapshots:
       - utf-8-validate
       - webpack-cli
 
-  '@bit-bazaar/design.data-display.avatar@file:design/data-display/avatar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
+  '@bit-bazaar/data-display.avatar@file:design/data-display/avatar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
@@ -15251,7 +15251,7 @@ snapshots:
       - utf-8-validate
       - webpack-cli
 
-  '@bit-bazaar/design.data-display.divider@file:design/data-display/divider(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
+  '@bit-bazaar/data-display.divider@file:design/data-display/divider(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
@@ -15313,7 +15313,7 @@ snapshots:
       - utf-8-validate
       - webpack-cli
 
-  '@bit-bazaar/design.data-display.list@file:design/data-display/list(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
+  '@bit-bazaar/data-display.list@file:design/data-display/list(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
@@ -15476,7 +15476,7 @@ snapshots:
   '@bit-bazaar/design.dev.react-mui@file:design/dev/react-mui(@babel/core@7.24.7)(@babel/traverse@7.24.7)(@jest/globals@29.7.0)(@types/express@4.17.21)(@types/node@20.14.5)(babel-plugin-macros@3.1.0)(html-webpack-plugin@5.5.0(webpack@5.92.0))(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(rollup@4.18.0)(terser@5.31.1)(type-fest@3.13.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@bit-bazaar/design.theme.theme-provider': file:design/theme/theme-provider(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/theme.theme-provider': file:design/theme/theme-provider(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
       '@bitdev/react.react-env': 2.0.11(@babel/core@7.24.7)(@babel/traverse@7.24.7)(@jest/globals@29.7.0)(babel-plugin-macros@3.1.0)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(rollup@4.18.0)(terser@5.31.1)(type-fest@3.13.1)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
       '@emotion/styled': 11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1)
@@ -15578,7 +15578,7 @@ snapshots:
       '@bit-bazaar/design.examples.layout.app-bar': file:design/examples/layout/app-bar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
       '@bit-bazaar/design.examples.pages.about-page': file:design/examples/pages/about-page(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
       '@bit-bazaar/design.examples.pages.homepage': file:design/examples/pages/homepage(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.theme-provider': file:design/theme/theme-provider(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/theme.theme-provider': file:design/theme/theme-provider(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
       '@bitdev/react.app-types.vite-react': 2.0.1(@types/node@20.14.5)(lightningcss@1.25.1)(sass@1.77.6)(terser@5.31.1)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
       '@emotion/styled': 11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1)
@@ -15644,14 +15644,14 @@ snapshots:
   '@bit-bazaar/design.examples.layout.app-bar@file:design/examples/layout/app-bar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@bit-bazaar/design.actions.button': file:design/actions/button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.actions.icon-button': file:design/actions/icon-button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.data-display.divider': file:design/data-display/divider(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.data-display.list': file:design/data-display/list(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.layout.box': file:design/layout/box(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.layout.toolbar': file:design/layout/toolbar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.surfaces.app-bar': file:design/surfaces/app-bar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.typography.typography': file:design/typography/typography(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/actions.button': file:design/actions/button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/actions.icon-button': file:design/actions/icon-button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/data-display.divider': file:design/data-display/divider(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/data-display.list': file:design/data-display/list(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/layout.box': file:design/layout/box(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/layout.toolbar': file:design/layout/toolbar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/surfaces.app-bar': file:design/surfaces/app-bar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/typography.typography': file:design/typography/typography(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
       '@emotion/styled': 11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1)
       '@mdx-js/mdx': 1.6.22
@@ -15714,8 +15714,8 @@ snapshots:
   '@bit-bazaar/design.examples.pages.about-page@file:design/examples/pages/about-page(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@bit-bazaar/design.navigation.link': file:design/navigation/link(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.typography.typography': file:design/typography/typography(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/navigation.link': file:design/navigation/link(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/typography.typography': file:design/typography/typography(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
       '@emotion/styled': 11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1)
       '@mdx-js/mdx': 1.6.22
@@ -15778,7 +15778,7 @@ snapshots:
   '@bit-bazaar/design.examples.pages.homepage@file:design/examples/pages/homepage(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@bit-bazaar/design.typography.typography': file:design/typography/typography(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/typography.typography': file:design/typography/typography(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
       '@emotion/styled': 11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1)
       '@mdx-js/mdx': 1.6.22
@@ -15838,7 +15838,7 @@ snapshots:
       - utf-8-validate
       - webpack-cli
 
-  '@bit-bazaar/design.layout.box@file:design/layout/box(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
+  '@bit-bazaar/layout.box@file:design/layout/box(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
@@ -15900,7 +15900,7 @@ snapshots:
       - utf-8-validate
       - webpack-cli
 
-  '@bit-bazaar/design.layout.container@file:design/layout/container(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
+  '@bit-bazaar/layout.container@file:design/layout/container(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
@@ -15962,7 +15962,7 @@ snapshots:
       - utf-8-validate
       - webpack-cli
 
-  '@bit-bazaar/design.layout.toolbar@file:design/layout/toolbar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
+  '@bit-bazaar/layout.toolbar@file:design/layout/toolbar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
@@ -16024,7 +16024,7 @@ snapshots:
       - utf-8-validate
       - webpack-cli
 
-  '@bit-bazaar/design.navigation.link@file:design/navigation/link(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
+  '@bit-bazaar/navigation.link@file:design/navigation/link(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
@@ -16086,10 +16086,10 @@ snapshots:
       - utf-8-validate
       - webpack-cli
 
-  '@bit-bazaar/design.navigation.menu@file:design/navigation/menu(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)':
+  '@bit-bazaar/navigation.menu@file:design/navigation/menu(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@bit-bazaar/design.actions.button': file:design/actions/button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/actions.button': file:design/actions/button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
       '@emotion/styled': 11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1)
       '@mdx-js/mdx': 1.6.22
@@ -16149,14 +16149,14 @@ snapshots:
       - utf-8-validate
       - webpack-cli
 
-  '@bit-bazaar/design.surfaces.app-bar@file:design/surfaces/app-bar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
+  '@bit-bazaar/surfaces.app-bar@file:design/surfaces/app-bar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@bit-bazaar/design.actions.button': file:design/actions/button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.actions.icon-button': file:design/actions/icon-button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.layout.box': file:design/layout/box(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.layout.toolbar': file:design/layout/toolbar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.typography.typography': file:design/typography/typography(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/actions.button': file:design/actions/button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/actions.icon-button': file:design/actions/icon-button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/layout.box': file:design/layout/box(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/layout.toolbar': file:design/layout/toolbar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/typography.typography': file:design/typography/typography(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
       '@emotion/styled': 11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1)
       '@mdx-js/mdx': 1.6.22
@@ -16216,12 +16216,12 @@ snapshots:
       - utf-8-validate
       - webpack-cli
 
-  '@bit-bazaar/design.surfaces.card@file:design/surfaces/card(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
+  '@bit-bazaar/surfaces.card@file:design/surfaces/card(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@bit-bazaar/design.actions.icon-button': file:design/actions/icon-button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.data-display.avatar': file:design/data-display/avatar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.typography.typography': file:design/typography/typography(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/actions.icon-button': file:design/actions/icon-button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/data-display.avatar': file:design/data-display/avatar(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/typography.typography': file:design/typography/typography(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
       '@emotion/styled': 11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1)
       '@mdx-js/mdx': 1.6.22
@@ -16281,10 +16281,10 @@ snapshots:
       - utf-8-validate
       - webpack-cli
 
-  '@bit-bazaar/design.theme.create-theme@file:design/theme/create-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
+  '@bit-bazaar/theme.create-theme@file:design/theme/create-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@bit-bazaar/design.typography.typography': file:design/typography/typography(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/typography.typography': file:design/typography/typography(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
       '@emotion/styled': 11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1)
       '@mdx-js/mdx': 1.6.22
@@ -16344,13 +16344,13 @@ snapshots:
       - utf-8-validate
       - webpack-cli
 
-  '@bit-bazaar/design.theme.dark-mode-toggle@file:design/theme/dark-mode-toggle(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)':
+  '@bit-bazaar/theme.dark-mode-toggle@file:design/theme/dark-mode-toggle(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@bit-bazaar/design.actions.icon-button': file:design/actions/icon-button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.dark-theme': file:design/theme/dark-theme(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.default-theme': file:design/theme/default-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react-router-dom@6.23.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.theme-provider': file:design/theme/theme-provider(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/actions.icon-button': file:design/actions/icon-button(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/theme.dark-theme': file:design/theme/dark-theme(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/theme.default-theme': file:design/theme/default-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react-router-dom@6.23.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/theme.theme-provider': file:design/theme/theme-provider(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
       '@emotion/styled': 11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1)
       '@mdx-js/mdx': 1.6.22
@@ -16411,11 +16411,11 @@ snapshots:
       - utf-8-validate
       - webpack-cli
 
-  '@bit-bazaar/design.theme.dark-theme@file:design/theme/dark-theme(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
+  '@bit-bazaar/theme.dark-theme@file:design/theme/dark-theme(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@bit-bazaar/design.theme.create-theme': file:design/theme/create-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.theme.default-theme': file:design/theme/default-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react-router-dom@6.23.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/theme.create-theme': file:design/theme/create-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/theme.default-theme': file:design/theme/default-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react-router-dom@6.23.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(terser@5.31.1)(typescript@5.4.5)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
       '@emotion/styled': 11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1)
       '@mdx-js/mdx': 1.6.22
@@ -16475,11 +16475,11 @@ snapshots:
       - utf-8-validate
       - webpack-cli
 
-  '@bit-bazaar/design.theme.default-theme@file:design/theme/default-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react-router-dom@6.23.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(terser@5.31.1)(typescript@5.4.5)':
+  '@bit-bazaar/theme.default-theme@file:design/theme/default-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react-router-dom@6.23.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@bit-bazaar/design.theme.create-theme': file:design/theme/create-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
-      '@bit-bazaar/design.typography.get-default-fonts': file:design/typography/get-default-fonts(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/theme.create-theme': file:design/theme/create-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/typography.get-default-fonts': file:design/typography/get-default-fonts(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
       '@emotion/styled': 11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1)
       '@mdx-js/mdx': 1.6.22
@@ -16539,10 +16539,10 @@ snapshots:
       - utf-8-validate
       - webpack-cli
 
-  '@bit-bazaar/design.theme.theme-provider@file:design/theme/theme-provider(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)':
+  '@bit-bazaar/theme.theme-provider@file:design/theme/theme-provider(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@bit-bazaar/design.theme.default-theme': file:design/theme/default-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react-router-dom@6.23.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(terser@5.31.1)(typescript@5.4.5)
+      '@bit-bazaar/theme.default-theme': file:design/theme/default-theme(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react-router-dom@6.23.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(terser@5.31.1)(typescript@5.4.5)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
       '@emotion/styled': 11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1)
       '@mdx-js/mdx': 1.6.22
@@ -16602,7 +16602,7 @@ snapshots:
       - utf-8-validate
       - webpack-cli
 
-  '@bit-bazaar/design.typography.get-default-fonts@file:design/typography/get-default-fonts(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
+  '@bit-bazaar/typography.get-default-fonts@file:design/typography/get-default-fonts(@jest/globals@29.7.0)(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)
@@ -16664,7 +16664,7 @@ snapshots:
       - utf-8-validate
       - webpack-cli
 
-  '@bit-bazaar/design.typography.typography@file:design/typography/typography(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)':
+  '@bit-bazaar/typography.typography@file:design/typography/typography(@jest/globals@29.7.0)(@mui/material@5.15.20(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react@18.3.1))(@types/react@18.2.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/node@20.14.5)(jest@29.3.1(@types/node@20.14.5)(babel-plugin-macros@3.1.0))(lightningcss@1.25.1)(react@18.3.1)(terser@5.31.1)(typescript@5.4.5)':
     dependencies:
       '@apollo/client': 3.10.5(@types/react@18.2.23)(graphql@16.8.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@emotion/react': 11.11.4(@types/react@18.2.23)(react@18.3.1)

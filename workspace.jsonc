@@ -1,7 +1,7 @@
 /**
  * this is the main configuration file of your bit workspace.
  * for full documentation, please see: https://bit.dev/reference/workspace/workspace-json
- **/{
+ **/ {
   "$schema": "https://static.bit.dev/teambit/schemas/schema.json",
   /**
    * main configuration of the Bit workspace.
@@ -38,12 +38,7 @@
    * Explore more dev environments at: https://bit.dev/docs/getting-started/composing/dev-environments
    **/
   "teambit.generator/generator": {
-    "envs": [
-      //  "bitdev.node/node-env",
-      //  "bitdev.react/react-env",
-      //  "bitdev.vue/vue-env",
-      //  "bitdev.angular/angular-env"
-    ]
+    "envs": []
   },
   /**
    * main configuration for component dependency resolution.
@@ -77,5 +72,16 @@
   },
   "teambit.workspace/workspace-config-files": {
     "enableWorkspaceConfigWrite": true
+  },
+  "teambit.workspace/variants": {
+    "*": {
+      "teambit.pkg/pkg": {
+        "packageManagerPublishArgs": ["--access public"],
+        "packageJson": {
+          "name": "@bit-bazaar/design.{name}",
+          "private": false
+        }
+      }
+    }
   }
 }
