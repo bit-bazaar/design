@@ -32,11 +32,11 @@
     "resolveEnvsFromRoots": true
   },
   /**
-  * Enable generator templates by uncommenting the desired environments below.
-  * These generators scaffold components for Node, React, Vue, and Angular.
-  * After uncommenting, run `bit install` to make them available in your workspace.
-  * Explore more dev environments at: https://bit.dev/docs/getting-started/composing/dev-environments
-  **/
+   * Enable generator templates by uncommenting the desired environments below.
+   * These generators scaffold components for Node, React, Vue, and Angular.
+   * After uncommenting, run `bit install` to make them available in your workspace.
+   * Explore more dev environments at: https://bit.dev/docs/getting-started/composing/dev-environments
+   **/
   "teambit.generator/generator": {
     "envs": [
       //  "bitdev.node/node-env",
@@ -53,11 +53,27 @@
      * choose the package manager for Bit to use. you can choose between 'yarn', 'pnpm'
      */
     "packageManager": "teambit.dependencies/pnpm",
-    "rootComponents": true,
     "policy": {
-      "dependencies": {},
+      "dependencies": {
+        "@bitdev/general.envs.bit-env": "^1.0.1",
+        "@bitdev/react.app-types.vite-react": "^2.0.1",
+        "@bitdev/react.react-env": "^2.0.9",
+        "@mui/icons-material": "^5.15.16",
+        "@teambit/defender.eslint-linter": "^1.0.28",
+        "@teambit/defender.prettier-formatter": "^1.0.16",
+        "@teambit/dependencies.modules.packages-excluder": "^1.0.8",
+        "@teambit/preview.react-preview": "^1.0.35",
+        "@teambit/react.mounter": "^1.0.6",
+        "@teambit/react.react-env": "^1.0.66",
+        "@teambit/typescript.typescript-compiler": "^2.0.34",
+        "@teambit/vite.vitest-tester": "^0.1.4",
+        "@vitejs/plugin-react": "^4.2.1",
+        "vite": "^5.2.11"
+      },
       "peerDependencies": {}
-    }
+    },
+    "linkCoreAspects": true,
+    "rootComponents": true
   },
   "teambit.workspace/workspace-config-files": {
     "enableWorkspaceConfigWrite": true

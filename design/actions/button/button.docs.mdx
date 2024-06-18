@@ -1,0 +1,23 @@
+---
+description: An MUI button
+---
+
+import { Button } from './button.js';
+
+Provide the text you want to display inside the Button component:
+
+```jsx live
+() => <Button>Click me</Button>;
+```
+
+You can also use the `variant` prop to change the appearance of the Button:
+
+```jsx live
+() => (
+  <div>
+    <Button variant="contained">Contained</Button>
+    <Button variant="outlined">Outlined</Button>
+    <Button variant="text">Text</Button>
+  </div>
+);
+```

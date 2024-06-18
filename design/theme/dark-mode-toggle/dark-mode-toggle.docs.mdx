@@ -1,0 +1,23 @@
+---
+description: Toggles the dark mode of the application
+---
+
+```js
+import { useState } from 'react';
+import { defaultTheme } from '@bit-bazaar/design.theme.default-theme';
+import { darkTheme } from '@bit-bazaar/design.theme.dark-theme';
+import { ThemeProvider } from '@bit-bazaar/design.theme.theme-provider';
+import { DarkModeToggle } from '@bit-bazaar/design.theme.dark-mode-toggle';
+
+export const MyApp = () => {
+  const [isDark, setIsDark] = useState(false);
+  return (
+    /** wrap your app with an MUI theme provider */
+    <ThemeProvider theme={isDark ? darkTheme() : defaultTheme()}>
+      /** * place the toggle anywhere in the app and pass it the function to
+      change the state of the theme */
+      <DarkModeToggle isDark={isDark} onClick={() => setIsDark(!isDark)} />
+    </ThemeProvider>
+  );
+};
+```
