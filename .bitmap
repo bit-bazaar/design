@@ -12,140 +12,140 @@
     "actions/button": {
         "name": "actions/button",
         "scope": "bit-bazaar.design",
-        "version": "0.0.4",
+        "version": "0.0.6",
         "mainFile": "index.ts",
         "rootDir": "design/actions/button"
     },
     "actions/icon-button": {
         "name": "actions/icon-button",
         "scope": "bit-bazaar.design",
-        "version": "0.0.4",
+        "version": "0.0.6",
         "mainFile": "index.ts",
         "rootDir": "design/actions/icon-button"
     },
     "data-display/avatar": {
         "name": "data-display/avatar",
         "scope": "bit-bazaar.design",
-        "version": "0.0.2",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/data-display/avatar"
     },
     "data-display/divider": {
         "name": "data-display/divider",
         "scope": "bit-bazaar.design",
-        "version": "0.0.2",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/data-display/divider"
     },
     "data-display/list": {
         "name": "data-display/list",
         "scope": "bit-bazaar.design",
-        "version": "0.0.2",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/data-display/list"
     },
     "layout/box": {
         "name": "layout/box",
         "scope": "bit-bazaar.design",
-        "version": "0.0.2",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/layout/box"
     },
     "layout/container": {
         "name": "layout/container",
         "scope": "bit-bazaar.design",
-        "version": "0.0.2",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/layout/container"
     },
     "layout/grid": {
         "name": "layout/grid",
         "scope": "bit-bazaar.design",
-        "version": "0.0.1",
+        "version": "0.0.3",
         "mainFile": "index.ts",
         "rootDir": "design/layout/grid"
     },
     "layout/toolbar": {
         "name": "layout/toolbar",
         "scope": "bit-bazaar.design",
-        "version": "0.0.2",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/layout/toolbar"
     },
     "navigation/link": {
         "name": "navigation/link",
         "scope": "bit-bazaar.design",
-        "version": "0.0.4",
+        "version": "0.0.6",
         "mainFile": "index.ts",
         "rootDir": "design/navigation/link"
     },
     "navigation/menu": {
         "name": "navigation/menu",
         "scope": "bit-bazaar.design",
-        "version": "0.0.4",
+        "version": "0.0.6",
         "mainFile": "index.ts",
         "rootDir": "design/navigation/menu"
     },
     "surfaces/app-bar": {
         "name": "surfaces/app-bar",
         "scope": "bit-bazaar.design",
-        "version": "0.0.4",
+        "version": "0.0.6",
         "mainFile": "index.ts",
         "rootDir": "design/surfaces/app-bar"
     },
     "surfaces/card": {
         "name": "surfaces/card",
         "scope": "bit-bazaar.design",
-        "version": "0.0.4",
+        "version": "0.0.6",
         "mainFile": "index.ts",
         "rootDir": "design/surfaces/card"
     },
     "theme/create-theme": {
         "name": "theme/create-theme",
         "scope": "bit-bazaar.design",
-        "version": "0.0.2",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/theme/create-theme"
     },
     "theme/dark-mode-toggle": {
         "name": "theme/dark-mode-toggle",
         "scope": "bit-bazaar.design",
-        "version": "0.0.4",
+        "version": "0.0.6",
         "mainFile": "index.ts",
         "rootDir": "design/theme/dark-mode-toggle"
     },
     "theme/dark-theme": {
         "name": "theme/dark-theme",
         "scope": "bit-bazaar.design",
-        "version": "0.0.2",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/theme/dark-theme"
     },
     "theme/default-theme": {
         "name": "theme/default-theme",
         "scope": "bit-bazaar.design",
-        "version": "0.0.2",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/theme/default-theme"
     },
     "theme/theme-provider": {
         "name": "theme/theme-provider",
         "scope": "bit-bazaar.design",
-        "version": "0.0.2",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/theme/theme-provider"
     },
     "typography/get-default-fonts": {
         "name": "typography/get-default-fonts",
         "scope": "bit-bazaar.design",
-        "version": "0.0.2",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/typography/get-default-fonts"
     },
     "typography/typography": {
         "name": "typography/typography",
         "scope": "bit-bazaar.design",
-        "version": "0.0.2",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/typography/typography"
     },
