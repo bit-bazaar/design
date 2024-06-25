@@ -1,4 +1,10 @@
-export { Card, CardHeader, CardMedia, CardContent } from './card.js';
+export {
+  Card,
+  CardHeader,
+  CardMedia,
+  CardContent,
+  CardActions,
+} from './card.js';
 export type {
   CardProps,
   CardHeaderProps,

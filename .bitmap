@@ -12,14 +12,14 @@
     "actions/button": {
         "name": "actions/button",
         "scope": "bit-bazaar.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/actions/button"
     },
     "actions/icon-button": {
         "name": "actions/icon-button",
         "scope": "bit-bazaar.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/actions/icon-button"
     },
@@ -58,6 +58,13 @@
         "mainFile": "index.ts",
         "rootDir": "design/layout/container"
     },
+    "layout/grid": {
+        "name": "layout/grid",
+        "scope": "bit-bazaar.design",
+        "version": "0.0.1",
+        "mainFile": "index.ts",
+        "rootDir": "design/layout/grid"
+    },
     "layout/toolbar": {
         "name": "layout/toolbar",
         "scope": "bit-bazaar.design",
@@ -68,28 +75,28 @@
     "navigation/link": {
         "name": "navigation/link",
         "scope": "bit-bazaar.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/navigation/link"
     },
     "navigation/menu": {
         "name": "navigation/menu",
         "scope": "bit-bazaar.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/navigation/menu"
     },
     "surfaces/app-bar": {
         "name": "surfaces/app-bar",
         "scope": "bit-bazaar.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/surfaces/app-bar"
     },
     "surfaces/card": {
         "name": "surfaces/card",
         "scope": "bit-bazaar.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/surfaces/card"
     },
@@ -103,7 +110,7 @@
     "theme/dark-mode-toggle": {
         "name": "theme/dark-mode-toggle",
         "scope": "bit-bazaar.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/theme/dark-mode-toggle"
     },
